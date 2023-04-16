@@ -1,0 +1,28 @@
+C:\Users\root\Desktop\Melis\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\bin\Debug\Burs-Basvuru-Otomasyonu.exe.config
+C:\Users\root\Desktop\Melis\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\bin\Debug\Burs-Basvuru-Otomasyonu.exe
+C:\Users\root\Desktop\Melis\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\bin\Debug\Burs-Basvuru-Otomasyonu.pdb
+C:\Users\root\Desktop\Melis\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\obj\Debug\Burs_Basvuru_Otomasyonu.GirisPaneli.resources
+C:\Users\root\Desktop\Melis\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\obj\Debug\Burs_Basvuru_Otomasyonu.Properties.Resources.resources
+C:\Users\root\Desktop\Melis\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\obj\Debug\Burs-Basvuru-Otomasyonu.csproj.GenerateResource.cache
+C:\Users\root\Desktop\Melis\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\obj\Debug\Burs-Basvuru-Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\Melis\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\obj\Debug\Burs-Basvuru-Otomasyonu.exe
+C:\Users\root\Desktop\Melis\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\obj\Debug\Burs-Basvuru-Otomasyonu.pdb
+C:\Users\root\Desktop\Melis\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\obj\Debug\Burs_Basvuru_Otomasyonu.KayitFormu.resources
+C:\Users\root\Desktop\Melis\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\obj\Debug\Burs-Basvuru-Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\Melis\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\obj\Debug\Burs_Basvuru_Otomasyonu.Burs_veren_formu.resources
+C:\Users\root\Desktop\Burs Basvuru Otomasyonu v2\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\bin\Debug\Burs-Basvuru-Otomasyonu.exe.config
+C:\Users\root\Desktop\Burs Basvuru Otomasyonu v2\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\bin\Debug\Burs-Basvuru-Otomasyonu.exe
+C:\Users\root\Desktop\Burs Basvuru Otomasyonu v2\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\bin\Debug\Burs-Basvuru-Otomasyonu.pdb
+C:\Users\root\Desktop\Burs Basvuru Otomasyonu v2\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\obj\Debug\Burs-Basvuru-Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\Burs Basvuru Otomasyonu v2\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\obj\Debug\Burs_Basvuru_Otomasyonu.Burs_veren_formu.resources
+C:\Users\root\Desktop\Burs Basvuru Otomasyonu v2\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\obj\Debug\Burs_Basvuru_Otomasyonu.GirisPaneli.resources
+C:\Users\root\Desktop\Burs Basvuru Otomasyonu v2\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\obj\Debug\Burs_Basvuru_Otomasyonu.KayitFormu.resources
+C:\Users\root\Desktop\Burs Basvuru Otomasyonu v2\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\obj\Debug\Burs_Basvuru_Otomasyonu.Properties.Resources.resources
+C:\Users\root\Desktop\Burs Basvuru Otomasyonu v2\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\obj\Debug\Burs-Basvuru-Otomasyonu.csproj.GenerateResource.cache
+C:\Users\root\Desktop\Burs Basvuru Otomasyonu v2\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\obj\Debug\Burs-Basvuru-Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\Burs Basvuru Otomasyonu v2\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\obj\Debug\Burs-Basvuru-Otomasyonu.exe
+C:\Users\root\Desktop\Burs Basvuru Otomasyonu v2\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\obj\Debug\Burs-Basvuru-Otomasyonu.pdb
+C:\Users\root\Desktop\Burs Basvuru Otomasyonu v2\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\obj\Debug\Burs_Basvuru_Otomasyonu.Ilan_ekle.resources
+C:\Users\root\Desktop\Burs Basvuru Otomasyonu v2\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\obj\Debug\Burs_Basvuru_Otomasyonu.Ogrenci_formu.resources
+C:\Users\root\Desktop\Burs Basvuru Otomasyonu v2\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\obj\Debug\Burs_Basvuru_Otomasyonu.Basvuru_formu.resources
+C:\Users\root\Desktop\Burs Basvuru Otomasyonu v2\Burs-Basvuru-Otomasyonu\Burs-Basvuru-Otomasyonu\obj\Debug\Burs_Basvuru_Otomasyonu.Yonetici_formu.resources
